@@ -2,6 +2,10 @@
 
 An add-on for Mozilla FireFox browser that adds a button to quickly switch proxy settings between "No proxy" and "Manual proxy configuration".
 
+##What
+
+What this extension offers is a button to trigger a single setting called "network.proxy.type" in your FireFox preferences (visible in `about:config`).
+
 ##Why
 
 I'm used to running a tunnel from my Apple laptops to my VPS in Amsterdam to bypass limitations set by our stupid government. For most of the cases I'd let my browser connect to internet directly ("No proxy"), but for some sites, such as torrent trackers, I have to establish an SSH tunnel to my remote server, and then set FireFox to use a manually configured socks proxy.
