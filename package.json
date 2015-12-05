@@ -1,0 +1,15 @@
+{
+  "title": "Desertr",
+  "name": "deserter",
+  "version": "0.0.1",
+  "description": "first test hallo wrld",
+  "main": "index.js",
+  "author": "Sergei Sokolov",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
