@@ -15,7 +15,7 @@ var self = require('sdk/self')
 	,propName = "network.proxy.type"
 
 	,button = buttons.ActionButton({
-		id: "io.deserter.proxytrigger",
+		id: "io-deserter-proxytrigger",
 		label: "Proxy is " + (service.get(propName, 0) ? "on" : "off"),
 		icon: service.get(propName, 0) ? iconOn : iconOff,
 		onClick: proxyTrigger
