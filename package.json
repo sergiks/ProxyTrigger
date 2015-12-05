@@ -1,8 +1,8 @@
 {
-  "title": "Desertr",
-  "name": "deserter",
+  "title": "ProxyTrigger",
+  "name": "io.deserter.proxytrigger",
   "version": "0.0.1",
-  "description": "first test hallo wrld",
+  "description": "FireFox add-on button to quickly switch proxy between bypass and manual setting",
   "main": "index.js",
   "author": "Sergei Sokolov",
   "engines": {
@@ -10,6 +10,6 @@
   },
   "license": "MIT",
   "keywords": [
-    "jetpack"
+    "proxy,switch,trigger,proxytrigger,button"
   ]
 }
